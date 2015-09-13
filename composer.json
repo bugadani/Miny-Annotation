@@ -1,0 +1,23 @@
+{
+    "name": "miny/annotation",
+    "description": "The Annotation package of the Miny Framework.",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "php": ">=5.4",
+        "bugadani/annotiny": "dev-master"
+        "miny/framework": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Dániel Buga",
+            "email": "bugadani@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Modules\\Annotation\\": "src/"
+        }
+    }
+}
