@@ -6,7 +6,7 @@
     "type": "library",
     "require": {
         "php": ">=5.4",
-        "bugadani/annotiny": "dev-master"
+        "bugadani/annotiny": "dev-master",
         "miny/framework": "dev-master"
     },
     "authors": [
